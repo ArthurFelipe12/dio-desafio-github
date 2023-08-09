@@ -1,2 +1,2 @@
 # DIO's Git/Github Project Challenge
-Repository created for the digital innovation one project challenge, the challenge was to create your first repository on github.
+Repositório criado para o desafio de um projeto da Digital Innovation One, o desafio era criar seu primeiro repositório no Github.
